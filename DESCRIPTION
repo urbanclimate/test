@@ -1,0 +1,10 @@
+Package: mytool
+Type: Package
+Title: a tool to remove outlier
+Version: 0.1.0
+Author: hdli
+Maintainer: Who to complain to <yourfault@somewhere.net>
+Description: simple tool to remove outliers
+License: GPL
+LazyData: TRUE
+RoxygenNote: 6.1.0
